@@ -1,0 +1,50 @@
+.video-box-bkend{
+	overflow: hidden; margin: 10px;
+}
+.video-box-bkend iframe{
+	float: left; width: 15%;
+}
+.video-box-bkend .video-box-div{
+	float: left; width: 80%; margin: 5px 10px;
+}
+.video-box-div input, .video-box-div a {
+    margin: 10px 0;
+}
+.demo {
+    width: 70%;
+}
+.video-box-bkend iframe {
+    width: 26%;
+    height: 100px;
+}
+.video-box-bkend .video-box-div {
+    float: left;
+    width: 50%;
+    margin: 5px 10px;
+}
+.video-box-div a {
+    text-decoration: none;
+    color: red;
+    font-size: 16px;
+}
+.video-box-div label {
+    font-size: 14px;
+    color: #009900;
+}
+.instruction-container h1 {
+    color: red;
+    font-size: 17px;
+}
+.instruction-container ul li {
+    font-size: 14px;
+    color: #009900;
+}
+.instruction-container span {
+    color: #1a75ff;
+    font-weight: 600;
+}
+.demo h2 {
+    color: #ff6600;
+    font-weight: 600;
+    font-size: 18px !important;
+}
